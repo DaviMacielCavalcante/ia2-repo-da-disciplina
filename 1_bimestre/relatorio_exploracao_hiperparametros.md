@@ -156,3 +156,7 @@ Accuracy teste: 0.9666666388511658
 
 ![alt text](image-34.png)
 ![alt text](image-35.png)
+
+## Observações:
+
+O batch_size parece influenciar a regularidade de aprendizado da rede, além de permitir uma maior exploração do espaço de valores que os pesos podem assumir;  
